@@ -88,18 +88,7 @@ const Footer = () => {
           </nav>
         </div>
       </div>
-      <div>
-        <p>
-          <p className=" text-center py-4">
-            @copyright developed by
-            <span className=" text-backgroundColor">
-              {" "}
-              champion programmers{" "}
-            </span>
-            | All rights reserved
-          </p>
-        </p>
-      </div>
+     
     </div>
   );
 };
